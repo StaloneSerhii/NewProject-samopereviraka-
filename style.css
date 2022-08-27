@@ -138,6 +138,15 @@ img {
     color: #000;
 }
 
+.hero p {
+    width: 540px;
+    font-family: 'Poppins';
+    font-size: 24px;
+    line-height: 36px;
+
+color: #8F95A5;
+}
+
 .link-btn {
     width: 218px;
 
@@ -156,6 +165,7 @@ img {
     
     color: #FFFFFF;
 
+    margin-right: auto;
     background: #263238;
     border-radius: 10px;
 }
